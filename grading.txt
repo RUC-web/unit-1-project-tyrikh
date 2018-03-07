@@ -1,0 +1,20 @@
+Issues found:
+No heading on index.html
+Container element on homepage not semantic -1
+Container element on homepage not set to 75vh
+No background image on homepage container element
+No margins set on homepage elements
+No background color on homepage
+Nav ul not correctly created
+No nav links created
+No bullets removed from li
+No styling applied to nav
+No background on nav
+Nav not included in other pages
+No box shadow on nav
+No images added to project
+No image tags on individual chapter pages
+No image styling
+No text container centering -1
+No background color on text container
+Open issues on repo
